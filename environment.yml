@@ -1,0 +1,6 @@
+name: mp27-simulation-test
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - nodejs
