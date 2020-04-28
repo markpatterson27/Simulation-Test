@@ -1,6 +1,8 @@
 name: mp27-simulation-test
 channels:
   - conda-forge
+  - sci-bots
 dependencies:
   - ipywidgets
   - nodejs
+  - paho
